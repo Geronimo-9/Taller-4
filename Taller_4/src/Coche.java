@@ -37,7 +37,9 @@ public void setVelocidadMaxima(double x){
         return "Marca :"+marca+" Modelo: "+modelo+" VelocidadMax: "+velocidadMaxima+" ";
     }
 
-
+    public void oferta(){
+        System.out.println("Marca :"+marca+" Modelo: "+modelo+" VelocidadMax: "+velocidadMaxima+"");
+    }
 
 
 
